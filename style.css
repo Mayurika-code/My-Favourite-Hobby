@@ -1,0 +1,17 @@
+body{
+ 
+      background-color: deepskyblue;
+      font-size: 36px;
+    font-family: monospace;
+    text-align: center;
+}
+
+h1{
+    
+    font-family: cursive;
+}
+
+img{
+    width: 400px;
+    border-radius: 45%;
+}
